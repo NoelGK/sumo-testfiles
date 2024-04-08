@@ -1,0 +1,10 @@
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+<e1Detector id="3841" lane="437157171#1_1" pos="12.350052122039221" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="3932" lane="43405582#6_1" pos="29.599262411302462" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="3944" lane="1077472011_0" pos="1931.297787911136" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="3945" lane="1262859591#0_0" pos="10.906353506737899" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="9890" lane="554230311#2_2" pos="151.91867512416462" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="3964" lane="43405583#2_2" pos="4.982190441507947" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="3979" lane="-43405584#3_1" pos="3.317985129724401" freq="60" file="NUL" friendlyPos="True"/>
+<e1Detector id="3980" lane="657562143_1" pos="9.707191326944365" freq="60" file="NUL" friendlyPos="True"/>
+</additional>
